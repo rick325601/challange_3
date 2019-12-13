@@ -23,8 +23,10 @@ public class PlayerControllerX : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //get the players hitbox
         playerRb = GetComponent<Rigidbody>();
         
+        //adds gravity and sound
         Physics.gravity *= gravityModifier;
         playerAudio = GetComponent<AudioSource>();
 
@@ -42,6 +44,7 @@ public class PlayerControllerX : MonoBehaviour
             playerRb.AddForce(Vector3.up * floatForce);
         }
         
+        //stops the player when they hit the top
         if (transform.position.y > yRange)
         {
             transform.position = new Vector3(transform.position.x, yRange, transform.position.z);

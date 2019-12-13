@@ -1,12 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6aebb31-9c9d-4151-be87-23d5e2204527" name="Default Changelist" comment="" />
+    <list default="true" id="c6aebb31-9c9d-4151-be87-23d5e2204527" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.challange_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.challange_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 3/Scripts/DetectCollision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 3/Scripts/DetectCollision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 3/Scripts/PlayerControllerX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 3/Scripts/PlayerControllerX.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../prototype 2/Assets/scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
@@ -26,12 +33,13 @@
         <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/MoveLeftX.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/SpawnManagerX.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/RepeatBackgroundX.cs" />
-        <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/PlayerControllerX.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/DetectCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/PlayerControllerX.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1Uvd4ZM8hP4TEwFVi71psZYyKPM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -59,12 +67,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576240813242</updated>
-      <workItem from="1576240818371" duration="2023000" />
+      <workItem from="1576240818371" duration="2471000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
